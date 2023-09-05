@@ -1,5 +1,4 @@
 #include "rogue.h"
-#include "player.h"
 
 Entity* player;
 

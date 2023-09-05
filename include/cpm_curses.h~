@@ -3,8 +3,6 @@
 
 #include <conio.h>
 
-#define	clear()	clrscr()
-
 void initscr(void);
 void endwin(void);
 
